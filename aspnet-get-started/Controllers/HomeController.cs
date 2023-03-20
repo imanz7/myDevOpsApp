@@ -11,6 +11,7 @@ namespace aspnet_get_started.Controllers
         public ActionResult Index()
         {
             return View();
+            // test
         }
 
         public ActionResult About()
